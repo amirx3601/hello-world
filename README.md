@@ -1,5 +1,5 @@
 # hello-world
-Doing the new project
 Hi!
-Im new to the programmer,
+keen to learn and doing the new project
+I'm, new to the programmer,literally
 Need to learn more
